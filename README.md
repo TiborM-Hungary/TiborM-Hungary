@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TiborM-Hungary (recently graduated as a Computer Science Engineer)
+- 👋 Hi, I’m @TiborM-Hungary (recently graduated as a Computer Science Engineer BA)
 - 👀 I’m interested in advancing my skills as programmer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects, where I can plant my feet and gain experience
