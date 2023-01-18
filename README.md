@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TiborM-Hungary (recently graduated as a Computer Science Engineer BA)
 - 👀 I’m interested in advancing my skills as programmer
-- 📫 How to reach me via e-mail usually; molnar.tibor.work@gmail.com
+- 📫 How to reach me? Via e-mail: molnar.tibor.work@gmail.com
 
 <!---
 TiborM-Hungary/TiborM-Hungary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
